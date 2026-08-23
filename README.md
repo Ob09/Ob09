@@ -91,7 +91,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-**Also Explored** *(single/academic projects — not a core strength yet)*
+**Also Explored** *(single/academic projects)*
 
 <p align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
