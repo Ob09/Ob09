@@ -91,7 +91,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-**Machine Learning** *(built for my MSc thesis — see Featured Project below)*
+**Machine Learning** *(MSc thesis)*
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linear%2FRidge%2FLasso%20Regression-FF6F00?style=for-the-badge" />
@@ -103,7 +103,7 @@
   <img src="https://img.shields.io/badge/LIME-FF6F00?style=for-the-badge" />
 </p>
 
-**Also Explored** *(single/academic projects — not a core strength yet)*
+**Also Explored** *(single/academic projects)*
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
