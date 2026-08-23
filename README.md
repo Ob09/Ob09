@@ -22,10 +22,10 @@
 
 ---
 
-### 💻 In my own words
+### 🌊 Signal in the noise
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=600&color=39FF14&background=0D1117&center=true&vCenter=true&multiline=true&width=650&height=170&lines=%24+whoami;Obedh+%E2%80%94+Business+%26+Product-minded+Data+professional;%24+cd+magnox_media;Co-founded+%E2%80%A2+Led+a+6-person+team+%E2%80%A2+100%25+on-time+delivery;%24+python+thesis.py;Predicting+earthquakes+from+44k%2B+seismic+records;%24+echo+%27always+shipping%27" alt="Terminal-style animated intro" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0D1117&height=140&section=header&text=Reading%20signal%20from%20noise&fontSize=28&fontColor=ffffff&fontAlignY=42&animation=fadeIn" alt="Animated wave banner" />
 </p>
 
 ---
@@ -91,13 +91,21 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-**Also Explored** *(single/academic projects)*
+**Machine Learning** *(built for my MSc thesis — see Featured Project below)*
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Regression-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linear%2FRidge%2FLasso%20Regression-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Random%20Forest-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SVR-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLP-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LIME-FF6F00?style=for-the-badge" />
+</p>
+
+**Also Explored** *(single/academic projects — not a core strength yet)*
+
+<p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -108,9 +116,16 @@
 
 ### ⭐ Featured Project — MSc Thesis
 
-**Earthquake Magnitude Prediction** — `Python` `Machine Learning` `Flask` `Streamlit`
+**Prediction of Earthquake Magnitude from Historical Seismic Data Using Advanced Machine Learning Models**
+`Python` `Machine Learning` `Flask` `Streamlit`
 
-Built a Python ETL pipeline processing 44,000+ seismic records, including data cleaning, validation, and feature engineering. Optimised Random Forest and XGBoost models using cross-validation and deployed predictions through a Flask API and a Streamlit app.
+- Built a full ETL + ML pipeline on 44,000+ historical seismic records (USGS + Associated Seismic Database, 1800–1984)
+- Engineered features including distance-to-nearest-city (Haversine formula), log-scaled depth/epicentral distance, and time-of-day seismicity patterns
+- Selected predictors using Recursive Feature Elimination (RFE) with Random Forest to cut multicollinearity and overfitting
+- Benchmarked Linear/Ridge/Lasso Regression, Random Forest, XGBoost, SVR, MLP, and Symbolic Regression
+- **Best model: tuned XGBoost — RMSE 0.269, R² 0.923**, validated with 5-fold cross-validation (avg RMSE 0.265, confirming low bias and strong generalisation)
+- Used SHAP and LIME to explain individual predictions, giving disaster-preparedness decision-makers a "why" behind every forecast
+- Deployed the tuned model via a Flask API into an interactive dashboard for manual input and live explainability plots
 
 ---
 
