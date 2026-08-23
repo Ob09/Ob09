@@ -1,24 +1,39 @@
 <h1 align="center">Hi there, I'm Obedh 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Data+Engineer+%7C+BI;MSc+Data+Analytics+%40+Dundalk+IoT;Turning+messy+data+into+decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Business+%26+Product-minded+Data+professional;MSc+Data+Analytics+%40+Dundalk+IoT;Turning+data+into+decisions+that+move+a+business" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍-Ireland-informational?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20%2F%20Data%20Engineer%20roles-success?style=flat-square" />
+  <a href="https://obedhkjoby-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-obedhkjoby--portfolio.vercel.app-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/obedh-k-joby"><img src="https://img.shields.io/badge/LinkedIn-obedh--k--joby-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🧭 About Me
 
-- 📊 Data Analytics professional with an **MSc in Data Analytics** (Dundalk Institute of Technology), turning raw data into actionable insight through ETL pipelines, predictive modelling, and BI dashboards
-- 💼 Currently **Junior Data Analyst** at Briticana — Python, SQL, Power BI/Tableau, ETL pipelines, and KPI reporting for stakeholders
-- 🚀 Co-founder & Project Manager of **Magnox Media** — led delivery for international clients across data, brand, and web projects
-- 🎨 Also into **Photoshop and design** — from dashboards to visual branding
+- 🧠 I think about **business and product outcomes first** — data, ML, and dashboards are the tools I reach for to get there, not the end goal
+- 📊 MSc in Data Analytics (Dundalk Institute of Technology) with hands-on experience in ETL pipelines, predictive modelling, and BI dashboards
+- 💼 Currently **Junior Data Analyst** at Briticana — translating data into KPI dashboards and decisions for stakeholders
+- 🚀 Co-founder & Project Manager of **Magnox Media** — took products from client brief to delivery, leading a 6-member team across strategy, design, and execution
+- 🎨 Also design-minded — comfortable in **Photoshop** for branding and visual work
 - 🔭 Main highlight: my MSc thesis, **Earthquake Magnitude Prediction**, an end-to-end ML pipeline on 44,000+ seismic records
-- 🌱 Comfortable applying classic ML (Regression, Random Forest, XGBoost) where a project calls for it, alongside my core analytics/engineering work
+
+---
+
+### 🤖 Meet Reo
+
+<table>
+<tr>
+<td width="120"><img src="assets/reo.png" width="100" alt="Reo the robot" /></td>
+<td>
+
+Reo is the little robot mascot from my [portfolio site](https://obedhkjoby-portfolio.vercel.app/) — say hi and ask him about me over there. Consider him my unofficial GitHub greeter.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -67,7 +82,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scribus-1A73E8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Brand%20%26%20Web%20Design-EA4C89?style=for-the-badge" />
 </p>
 
@@ -79,10 +94,11 @@
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-*Also applied on select projects: Machine Learning (Regression, Random Forest, XGBoost) — mainly used for my MSc thesis and a couple of academic projects.*
+*Also comfortable with: Machine Learning (Regression, Random Forest, XGBoost) — mainly used for my MSc thesis and academic projects — and front-end/web basics (JavaScript, HTML, CSS, Django) for quick prototypes.*
 
 ---
 
@@ -101,7 +117,7 @@ Built a Python ETL pipeline processing 44,000+ seismic records, including data c
 - **[financial-pipeline](https://github.com/Ob09/financial-pipeline)** — Financial market data pipeline built with Docker, Airflow, Spark, FastAPI, and Dash.
 - **[ecom_intelligence](https://github.com/Ob09/ecom_intelligence)** — E-commerce data analyser for extracting insights from online retail data.
 - **[Luas-route-planner-using-python-and-Neo4j](https://github.com/Ob09/Luas-route-planner-using-python-and-Neo4j)** — Python programs that find the best route between two destinations on Dublin's Luas network using a Neo4j graph database.
-- **[portfolio](https://github.com/Ob09/portfolio)** — My personal portfolio website.
+- **[portfolio](https://github.com/Ob09/portfolio)** — My personal portfolio website (yes, Reo lives here 🤖).
 
 ---
 
