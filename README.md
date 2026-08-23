@@ -22,18 +22,11 @@
 
 ---
 
-### 🤖 Meet Reo
+### 💻 In my own words
 
-<table>
-<tr>
-<td width="120"><img src="assets/reo.png" width="100" alt="Reo the robot" /></td>
-<td>
-
-Reo is the little robot mascot from my [portfolio site](https://obedhkjoby-portfolio.vercel.app/) — say hi and ask him about me over there. Consider him my unofficial GitHub greeter.
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=600&color=39FF14&background=0D1117&center=true&vCenter=true&multiline=true&width=650&height=170&lines=%24+whoami;Obedh+%E2%80%94+Business+%26+Product-minded+Data+professional;%24+cd+magnox_media;Co-founded+%E2%80%A2+Led+a+6-person+team+%E2%80%A2+100%25+on-time+delivery;%24+python+thesis.py;Predicting+earthquakes+from+44k%2B+seismic+records;%24+echo+%27always+shipping%27" alt="Terminal-style animated intro" />
+</p>
 
 ---
 
@@ -98,7 +91,18 @@ Reo is the little robot mascot from my [portfolio site](https://obedhkjoby-portf
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-*Also comfortable with: Machine Learning (Regression, Random Forest, XGBoost) — mainly used for my MSc thesis and academic projects — and front-end/web basics (JavaScript, HTML, CSS, Django) for quick prototypes.*
+**Also Explored** *(single/academic projects — not a core strength yet)*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Regression-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Random%20Forest-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</p>
 
 ---
 
